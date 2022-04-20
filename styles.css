@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+    background:linear-gradient(0deg,rgb(255, 155, 193),rgb(255, 222, 152) ,rgb(255, 155, 193),rgb(255, 222, 152),rgb(255, 155, 193) );
+    font-family: 'Righteous', cursive;
+    
+}
+img{
+    border-style:dashed ;
+    border-width: 12;
+    border-color: #d45c11;
+    background-color: #D6A99A;
+    border-radius: 15%;
+}
